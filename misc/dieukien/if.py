@@ -15,6 +15,8 @@ Loại 3:
 # Chúng ta có thể kết hợp với toán tử AND và OR
 # hay dùng toán tử so sánh ==  != >= <=
 """
+
+
 is_hot = False
 is_cold = False
 if is_hot:
